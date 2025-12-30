@@ -9,10 +9,11 @@ the goal.
 
 My main tech stack is Python, C#, C++, HTML, JavaScript, and CSS.
 I always work on projects in my free time in order to keep my skills sharp, with some of my favorites pinned. 
+
 Fun Facts:
-> 10-year veteran (USMC)
-> Daily Linux
-> Hobbies: Gym, Automotive Projects, Cooking
+- 10-year veteran (USMC)
+- Daily Linux
+- Hobbies: Gym, Automotive Projects, Cooking
 
 <!--
 **Ohh-Dee/Ohh-Dee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
